@@ -13,3 +13,4 @@ cd custom-gamma
 chmod +x gamma.sh
 ./gamma.sh
 ```
+Paste full command and click enter after pasting in terminal. The script prompts you to modify the gamma settings with the nano editor.
