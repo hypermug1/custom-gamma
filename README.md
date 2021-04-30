@@ -1,7 +1,9 @@
 # custom-gamma
 A script that allows you to change the gamma of your display in Linux.
-## Installing
 
+## Dependencies
+`git`, `wget`
+## Installing
 Cloning the git repository
 ```
 cd ~ && git clone https://github.com/hypermug1/custom-gamma
