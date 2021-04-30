@@ -2,7 +2,7 @@
 A script that allows you to change the gamma of your display in Linux.
 
 ## Dependencies
-`git`, `wget`
+`git`, `wget`, `nano`
 ## Installing
 Cloning the git repository
 ```
