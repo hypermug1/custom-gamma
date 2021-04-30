@@ -1,8 +1,8 @@
 # custom-gamma
 A script that allows you to change the gamma of your display in Linux.
 
-## Dependencies
-`git`, `wget`, `nano`
+## Installing Dependencies
+``` sudo apt install git wget nano```
 ## Installing
 Cloning the git repository
 ```
